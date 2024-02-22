@@ -49,14 +49,10 @@ conda remove --name bikepoint_analysis --all
 
 For reproducibility purposes, data is stored under ```/data```.
 
-BikePoint data is taken from the [TfL Unified API](https://api-portal.tfl.gov.uk/api-details#api=BikePoint).
-
-Additional cycle routes data is sourced from the [TfL cycling open data store](https://cycling.data.tfl.gov.uk/).
-
 Local Authority District boundaries and lookup data is sourced from the [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/).
 
 ## Author
 
 George Wood
 
-2024-02-11
+2024-02-23
