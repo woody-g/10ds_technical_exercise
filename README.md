@@ -1,7 +1,5 @@
 # Analysis of A&E performance
 
-Analysis and visualisations 
-
 ## Description
 
 This was developed for a technical exercise on accident and emergency performance among NHS England Integrated Care Boards (ICBs).
