@@ -1,18 +1,16 @@
-# analysis
+# Analysis of A&E performance
 
 Analysis and visualisations 
 
 ## Description
 
-This was developed for a technical exercise 
+This was developed for a technical exercise on accident and emergency performance among NHS England Integrated Care Boards (ICBs).
 
 ## Accessing the notebook
 
-### NBViewer
+### Github / NBViewer
 
-The notebook ```10ds_technical_exercise.ipynb``` can be accessed via Jupyter NBViewer here.
-
-If the link doesn't work, try accessing the cached version here.
+The notebook ```10ds_technical_exercise.ipynb``` can be viewed in Github, or [NBViewer](https://nbviewer.org/) if there are issues with presentation.
 
 ### Local installation
 
@@ -50,8 +48,6 @@ conda remove --name analysis_exercise --all
 ## Data sources
 
 For reproducibility purposes, data is stored under ```/data```.
-
-Local Authority District boundaries and lookup data is sourced from the [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/).
 
 ## Author
 
